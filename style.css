@@ -263,7 +263,9 @@ padding-top: 200px;
     clear: both;
     display: table;    
 }
-
+.star-rating {
+    padding-left: 100px;
+}
 /*### STYLE PAGINATION ###*/
 .center {
   text-align: center;
@@ -390,5 +392,8 @@ padding-top: 200px;
 }
     .ratings {
    padding: 0 20px;
+}
+    .star-rating {
+    padding-left: 50px;
 }
 }
