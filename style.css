@@ -40,6 +40,7 @@ padding: 0;
   display: flex;
   justify-content: center;
   align-items: center;
+    font-size: 12px;
 }
 
 nav ul {
@@ -115,7 +116,7 @@ clear: both;
 .search .search-container button {
   padding: 9px 10px 9px 10px;
   margin-top: px;
-  background: #f1f1f1;
+  background: #dcdc00;
   font-size: 11px;
   border-radius: 0 5px 5px 0;
   border: 1px solid #000;
